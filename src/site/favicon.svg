@@ -1,20 +1,9 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="16.000000pt" height="16.000000pt" viewBox="0 0 16.000000 16.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,16.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M0 150 c0 -5 7 -7 15 -4 19 8 19 14 0 14 -8 0 -15 -4 -15 -10z"/>
-<path d="M58 138 c24 -12 36 -42 30 -79 -4 -30 -44 -39 -51 -12 -3 12 -5 8 -6
--9 -1 -30 24 -39 47 -16 9 9 12 8 12 -5 0 -21 58 -24 66 -3 8 20 -22 85 -42
-93 -10 4 -26 15 -36 25 -10 10 -24 18 -30 17 -7 0 -3 -5 10 -11z m80 -85 c7
--20 7 -35 1 -38 -5 -4 -9 0 -10 7 0 10 -2 10 -6 1 -10 -26 -23 -12 -23 25 0
-64 18 66 38 5z"/>
-<path d="M10 114 c0 -10 5 -26 10 -34 8 -11 9 -7 4 15 -8 37 -14 45 -14 19z"/>
-<path d="M50 75 c0 -8 5 -15 10 -15 6 0 10 7 10 15 0 8 -4 15 -10 15 -5 0 -10
--7 -10 -15z"/>
-</g>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>icono16</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAadQTFRFFQUCXE4BPjACFgcCFAQCAAAAFAQC2s0B//EA4NMAh3oBKhsCFAQCFAQCFAQCsKMB694AdGcBIRICGwwCFAQCh3kB/vAAoZQBJhgCXVACFAQCXlAB/e8AfnABIxUCOCoC39EALCECAAAAAAAAAAAAGAkClIgB7eAA1cgBRkQAgoMAl5oAVFUAAAAAFAQCIRIC++0A4dQBFAUCSjsC5dcAS0sA3NsAoaEAAAAAFAQC284B/fAAJxkCFgcCvrEBS0kA2tMA2dIAGxsAAAAAFAQCrJkB+eIAUD8CaFMB6dIASkUA18kAzL8AbmcAAAAAFAQCgWUB68MA58AA47wASkIA1L4AloYAvqsAAwIAFAQCWD0B2acArYMBS0AA0bIAPTQAFAQCMhsCyIsAu4IAUDMBSjwAzaUAxZ8AqIcAjHEAGAcCsWwAuXEAn2IAUzABGQgCSTgAypoAwJMAVkEAyJkAEAwAFAQCcz4BWS8BKxMCFgUCFwYCSTUAx5AAOyoAsoEAi2UANCYAFAQCGAcCFAQCFAQCHRQAIRcADgoAAAAAAAAAAAAAAAAAS1Co0AAAAI10Uk5Trte1fCsAn/////61OQJy///7iwhF///+owoZ/v/8Z+j/0JiuRL3////6///GURzl///x/v////+7tP//zd///////hmD////////////g1n//////////+Uu///+////CfX//97//////8/////wZP////j//aL/+r5HBf//////wT2BQg+f//+V5LJInZy9qwAAANtJREFUeJxjYGBkYmZhRQAGNnYOTi5uHl64AB8/BweHgKCQMExARBQowCEmLiEJFZCSBglwyMjKQQV45cECHAqKSsoqIAFWVTUOdQ0xDjFNLW0dXZCAnr6BoZGxCYepmZm5BUiA1dLK2sbWjsPewcHRyRkk4OLq5u7h6ebl7ePt6wcS8A8IDAoMDA4JDQsNjwAJREZFA0FMbBwQxKsABRISk5KSklNS09Iz0jKVgQKsWdk5uXn5BYVFxYUlpSCBsvKKyqrqmtrauvqGRpBAU3NLKytrW3tHZ1d3DwDDqi9esvdchwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
 </svg>
