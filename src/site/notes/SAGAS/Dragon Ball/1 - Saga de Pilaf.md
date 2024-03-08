@@ -9,13 +9,11 @@
 
 ## Opening
 
-```audio-player
-[[1. Makafushigi Adventure!.flac]]
-```
+ Makafushigi Adventure!
 
 ## Ending
 
-Romantic Ageru Yo"
+"Romantic Ageru Yo"
 
 ## Cuando suceden los Eventos   
 
