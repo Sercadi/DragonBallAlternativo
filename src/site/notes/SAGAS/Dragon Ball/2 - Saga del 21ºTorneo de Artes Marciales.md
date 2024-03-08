@@ -43,7 +43,7 @@ Año 749-750 de la Línea 1.
 | Krillin        | Jackie Chun            | Jackie Chun   |
 | Goku           | Nam                    | Goku          |
 | Goku           | Jackie Chun            | Jackie Chun   |
-|                |                        |               |
+
 
 
 
