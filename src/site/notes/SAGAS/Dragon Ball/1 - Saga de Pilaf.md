@@ -172,7 +172,7 @@ Año 749 de la Línea 1.
 
 ---
 > [!caption|left] Floats to the left
-> ![toribot.png|150](/img/user/PERSONAJES/EXTRAS/toribot.png)
+> ![toribot.png|170](/img/user/PERSONAJES/EXTRAS/toribot.png)
 
 
 Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
