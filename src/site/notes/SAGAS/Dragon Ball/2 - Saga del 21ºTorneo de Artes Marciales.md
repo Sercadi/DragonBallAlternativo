@@ -204,6 +204,20 @@ Año 749-750 de la Línea 1.
 - El anunciador dice que de acuerdo a las reglas, el primero en levantarse y afirmar ser el campeón ganara el torneo. Goku se levanta primero, y esta a punto de declararse ganador, lamentablemente se desmaya y cae de nuevo al suelo, ahora Jackie Chun se levanta con dificultad y cuando estaba a punto de caer de igual manera que Goku se declara ganador. Él le dice a Goku que sus piernas eran más largas, por lo que podían golpear más rápido. Jackie Chun obtiene el premio, después se quita el uniforme y la peluca y regresa como el Maestro Roshi. El Maestro Roshi regresa con sus estudiantes y les dice que está muy orgulloso de ellos, como felicitación el Maestro Roshi, Goku, Krilin, Yamcha ,Puar, Oolong y Bulma salen a cenar juntos. Pero el consumo de Goku de comidas llega al total del dinero que el Maestro Roshi ganó, dejando así al Maestro Roshi sin dinero.
 
 
+---
+> [!caption|left] Floats to the left
+> ![toribot.png|150](/img/user/PERSONAJES/EXTRAS/toribot.png)
+
+
+Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
+
+Gracias por todo Maestro. 
+
+安らかに眠る 1955-2024
+
+
+
+
 
 
 
