@@ -59,7 +59,7 @@ Año 750-753 de la Línea 1.
 - Earthlings
 	- Krillin
 	- Yamcha
-	- Maestro Roshi
+	- Maestro Roshi (Jackie Chun)
 
 
 ### Secundarios 
@@ -77,13 +77,20 @@ Año 750-753 de la Línea 1.
 	- Earthlings 
 		- Triclopes
 			- Tienshinhan 
-		- Chaos
+		- Chaoz
 		- Rey Chappa
-		- Hombre Lobo
+		- Lobo Hombre
 		- Pamput
 		- Nam
+		- Luchador 178
+		- Hombre Tigre 
+		- Hombre Grande
+		- Hombre Cocodrilo 
+		- Kickboxer 
+		- Nam 
+		- 
 - Earthlings 
-	- Maestro Shen
+	- Maestro Tsuru
 	- Vodka
 - Monstruo Misterioso
 
