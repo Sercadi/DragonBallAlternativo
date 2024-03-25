@@ -71,8 +71,6 @@ Año 750-753 de la Línea 1.
 	- Tortuga Duende
 	- Anunciador Torneo 
 
-
-
 ### Villanos 
 
 - Torneo Mundial 
@@ -87,8 +85,7 @@ Año 750-753 de la Línea 1.
 - Earthlings 
 	- Maestro Shen
 	- Vodka
-- Namekianos Demoníacos
-	- Tambourine
+- Monstruo Misterioso
 
 
 ## Historia
