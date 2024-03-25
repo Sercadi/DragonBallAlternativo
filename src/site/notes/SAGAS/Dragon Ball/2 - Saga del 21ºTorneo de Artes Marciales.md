@@ -82,7 +82,7 @@ Año 749-750 de la Línea 1.
 - Saiyajin Puros
 	- Goku
 - Earthlings
-	- Maestro Roshi/Jackie Chun
+	- Maestro Roshi (Jackie Chun)
 	- Krillin
 	- Yamcha
 	- Launch
