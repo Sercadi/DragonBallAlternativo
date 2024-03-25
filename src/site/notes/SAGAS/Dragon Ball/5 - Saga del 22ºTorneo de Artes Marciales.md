@@ -76,7 +76,7 @@ Año 750-753 de la Línea 1.
 - Torneo Mundial 
 	- Earthlings 
 		- Triclopes
-			- TienShin Han
+			- Tienshinhan 
 		- Chaos
 		- Rey Chappa
 		- Hombre Lobo
