@@ -6,6 +6,36 @@
 
 ![Torneo_22_Tenkaichi_Budokai.png|300](/img/user/IMAGENES/Torneo_22_Tenkaichi_Budokai.png)
 
+
+>[!SUMMARY] Tabla de Contenido
+
+>    - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Opening\|Opening]]
+>    - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Ending\|Ending]]
+>    - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Cuando suceden los Eventos   \|Cuando suceden los Eventos   ]]
+>    - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Combates\|Combates]]
+>    - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Personajes\|Personajes]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Principales\|Principales]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Secundarios \|Secundarios ]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Villanos \|Villanos ]]
+>    - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Historia\|Historia]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Preludio al Torneo \|Preludio al Torneo ]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Preliminares \|Preliminares ]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Cuartos de Final \|Cuartos de Final ]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Yamcha vs Tienshinhan\|Yamcha vs Tienshinhan]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales# Jackie Chun vs Lobo Hombre\| Jackie Chun vs Lobo Hombre]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Krillin vs Chaoz\|Krillin vs Chaoz]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Goku vs Pamputt\|Goku vs Pamputt]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Semi-Finales\|Semi-Finales]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Jackie Chun vs Tienshinhan\|Jackie Chun vs Tienshinhan]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Goku vs Krillin\|Goku vs Krillin]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Final \|Final ]]
+>            - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Goku vs Tienshinhan\|Goku vs Tienshinhan]]
+>        - [[SAGAS/Dragon Ball/5 - Saga del 22ºTorneo de Artes Marciales#Conclusión \|Conclusión ]]
+
+
+
+
+
 ## Opening
 
 Urufu Harikēn
@@ -108,40 +138,40 @@ Año 750-753 de la Línea 1.
 
 ### Cuartos de Final 
 
-**Pelea 1: Yamcha vs Tienshinhan**
+#### Yamcha vs Tienshinhan
 
 - Los finalistas se preparan para sacar sus números para elegir el orden de combates. Chaozu usa sus poderes telequinéticos para arreglar las peleas. La primera pelea será Yamcha vs Tienshinhan, la segunda es Jackie Chun vs Lobo Hombre, la tercera es Krilin vs Chaozu y la cuarta, Goku vs Pamputt. Después de una comida rápida para Goku, el Torneo definitivo empieza. Yamcha y Tienshinhan comienzan a golpearse rápidamente y se sorprenden de la fuerza del otro. Durante una pausa en la acción, Yamcha afirma que usará su nueva técnica.
 - Yamcha utiliza su técnica del Shin Rogafufuken, descargando contundentes golpes sobre Tienshinhan, pero no tienen ningún efecto. Para sorpresa de todos, y al verse acorralado, Yamcha dispara un KameHameHa, pero Tienshinhan logra repelerlo de vuelta hacia él. Yamcha pega un salto para evitarlo, sin embargo Tienshinhan logra patearlo en el aire hacia el suelo, quedando inconsciente.
 
-**Pelea 2: Jackie Chun vs Lobo Hombre**
+####  Jackie Chun vs Lobo Hombre
 
 - Tras la Brutal Derrota de Yamcha por parte de Tienshinhan, comienza el segundo combate. Lobo Hombre ha estado esperando tres años para la oportunidad de luchar Jackie Chun. Él está resentido con Jackie por haber destruido la luna, que le impide cambiar a ser humano. Lobo Hombre trata de golpear a Jackie lo más rápido que puede, pero esquiva todo sin ningún esfuerzo. Lobo Hombre, tras haber sido estampado contra la pared, saca entonces un cuchillo, pero Jackie lo detiene y derrota fácilmente. Tras vencer a Lobo Hombre, llama a Krilin. Hipnotizado, el Lobo cree que la cabeza de Krilin es la Luna. Lobo Hombre se convierte nuevamente en un humano.
 
-**Pelea 3: Krillin vs Chaoz** 
+#### Krillin vs Chaoz
 
 - Krilin y Chaoz disputan el tercer combate. Chaoz muestra a todos su capacidad de volar y comienza a disparar rayos Dodonpa a Krilin, que se ve obligado a moverse y saltar sin parar para evitarlos. Goku identifica el rayo Dodonpa, la misma técnica que fue utilizada por el Asesino mercenario Tao Pai Pai. Tienshinhan se sorprende al saber que Goku fue quien lo derrotó, ya que Tao Pai Pai pertenecía a la Escuela del maestro Tsuru. Jackie Chun revela a Goku que él era el hermano de Tsuru. Ten le cuenta a su maestro lo sucedido y ordena a Chaoz descargar su furia sobre Krilin para vengarse. Acorralado por Chaoz que flota en el aire, Krilin decide intentar hacer un Kamehameha, aunque él nunca lo ha utilizado antes.
 - Chaoz le dispara su rayo Dodonpa a Krilin, que produce una gran explosión. De repente, Krilin aparece en el aire que utiliza un Kamehameha sobre Chaoz que impacta de lleno. Chaoz, malherido, apenas logra evitar salir del Tatami. Chaoz cambia de estrategia y decide utilizar su cabeza, lanzándose en un movimiento de cabezazo giratorio hacia Krilin para empujarlo fuera del ring. Al evitarlo, Chaoz a continuación utiliza sus poderes psíquicos para paralizar y tener a su merced a Krilin, propinándole un severo castigo. En un último aliento, Krilin se da cuenta de que Chaoz necesita sus manos para usar sus poderes, así que le propone un problema de matemáticas. Chaoz empieza a contar con los dedos y Krilin logra vencer gracias a ello. Más tarde, esa noche, alguien se mete a hurtadillas en la habitación de Goku y trata de matarlo. Goku se despierta y el individuo huye, pero Krilin y Goku salen en su busca. Se trataba del Maestro Tsuru, que buscaba venganza por la derrota de Tao Pai Pai, su hermano.
 
-**Pelea 4: Goku vs Pamputt**
+#### Goku vs Pamputt
 
 - El representante de Pamputt, estrella de Cine y TV y el próximo rival de Goku en el Torneo, ve lo fuerte que es el chico y se da cuenta de que Pamputt no puede vencerlo. Eso supondría la ruina del representante al no poderse firmar contratos nuevos para los medios. Goku sale del recinto a correr un poco y el representante le alcanza en su coche diciéndole que el Torneo se ha trasladado a otro estadio. Él se ofrece a llevar a Goku. Mientras, Lunch ve y sigue a Goku y derrota fácilmente a los guardaespaldas del representante. Goku vuelve a toda prisa al Tatami verdadero justo a tiempo para su lucha. Pamputt está muy seguro de su victoria, pero Goku esquiva su ataque y le propina tres rápidos golpes a Pamputt dejándolo noqueado.
 
 
 ### Semi-Finales
 
-**Pelea 5: Jackie Chun vs Tienshinhan**
+#### Jackie Chun vs Tienshinhan
 
 - La Primera Semifinal va a Comenzar: Jackie Chun y Tienshinhan inician su combate. Ten ataca primero, y Jackie Chun lo agarra y lo lanza fuera del ring. Ten revela que él también tiene la capacidad de volar, y flota de nuevo hacia el ring. Jackie Chun usa entonces la técnica del Zanzoken creando ocho imágenes de sí mismo y rápidamente giran alrededor de Tienshinhan, que le cierran y atacan desde todos los lados. Ten utiliza sus tres ojos para saber cuál es el verdadero Jackie, y le da una patada en la cara. Jackie se quita la camisa y se dispone a pelear al 100%. Los dos comienzan a atacarse salvajemente.
 - Tienshinhan y Jackie Chun siguen luchando. Tienshinhan da patadas a Jackie, lo que le hace volar hasta situarle justo al borde del tatami. Ten trata de empujarlo hacia fuera, pero Jackie Chun se las arregla para escapar y volver al centro de la arena. Tienshinhan decide usar su técnica de Tayoken que ciega a todos los espectadores presentes, incluyendo a Jackie. Entonces, Tienshinhan le propina un duro golpe, casi noqueando a Jackie Chun. El Anunciador comienza la cuenta atrás, pero antes de que llegue a diez, Jackie Chun se levanta. Jackie a continuación, comienza a hablarle a Tienshinhan, diciéndole el error de sus caminos malignos en la Lucha. Tienshinhan le ignora y comienza un furioso ataque. Como Jackie Chun sigue predicando, el maestro Tsuru de repente se da cuenta de Jackie Chun es realmente el Maestro Roshi disfrazado. Se comunica telepáticamente con Tienshinhan avisándole de ello y es entonces cuando el joven dispara, para sorpresa de todos, un Kamehameha. Jackie Chun logra desviarlo hacia arriba, y tras unas últimas palabras de sabiduría, el combate da por finalizado de una forma totalmente inesperada.
 
-**Pelea 6: Goku vs Krillin**
+#### Goku vs Krillin
 
 - Tras el abandono voluntario de Jackie Chun y la victoria de Tienshinhan, Goku y Krilin pueden comenzar la última semifinal. Después de varios minutos de lucha e intercambio de puñetazos y patadas, los dos parecen igualados. Goku salta por los aires y Krilin le sigue. El sol se refleja en la calva de Krilin y ciega a Goku, permitiendo darle una patada hacia el Suelo. Mientras tanto, Tienshinhan se presenta ante el Maestro Roshi para preguntarle por qué abandonó su combate. El Maestro Roshi le dice que no es un asesino, a pesar de que actúa como tal. Él afirma que Tienshinhan tiene una conciencia, y esto le convierte en un héroe. El Joven trata de ignorar las enseñanzas de Roshi y promete no tener piedad con su rival en la final del torneo.
 - Goku y Krilin continúan su lucha. Goku corre hacia Krilin y salta en el aire y utiliza un Kamehameha para impulsarse a sí mismo hacia Krilin, que recibe un fuerte golpe que le deja semi-inconsciente. El Anunciador comienza la cuenta atrás, pero Krilin se levanta. Goku recibe varios golpes poderosos de Krilin, el cual se da cuenta de que sólo tiene una opción para poder ganarle. Krilin decide disparar un Kamehameha hacia Goku, que le advierte que no surtirá efecto, y fácilmente lo bloquea. De repente, Krilin se aprovecha de la explosión para aparecer detrás de Goku y le agarra la cola. Goku se desmaya y el Anunciador comienza a contar. Antes de que llegue a diez, Goku se levanta y golpea Krilin, afirmándole que durante los últimos tres años trabajó con la cola hasta conseguir que su único punto débil desapareciera de raíz. Krilin, atónito, trata de propinar a Goku un puñetazo, pero desaparece sin dejar ni rastro. En realidad, él se está moviendo tan rápido que nadie puede verlo. Solo Tienshinhan, con su visión de tres ojos, se da cuenta de ello. De repente, aparece frente a Krilin que a simple vista, no lo llega a tocar (aunque le dio 8 golpes y una patada para sacarlo a fuera del Tatami en menos de un segundo).
 
 ### Final 
 
-**Pelea 7: Goku vs Tienshinhan**
+#### Goku vs Tienshinhan
 
 - Yamcha se escapa del hospital para ver la final del Torneo. La pelea Final entre Tienshinhan y Goku comienza, el joven agarra la pierna de Tienshinhan con la cola y le logra dar un puñetazo en la cara. Tienshinhan se eleva y decide atacar a Goku con un rayo Dodonpa, que lo estampa contra las baldosas del Tatami generando un gran socavón. Goku salta de entre los escombros y sigue la pelea. Goku emplea ahora la técnica de la multiplicación de Imágenes de sí mismo y rodea a Tienshinhan. Mientras Goku está corriendo alrededor, Tienshinhan consigue golpear a la Imagen Verdadera y lo envía volando al Muro del Escenario, donde desencadena un ataque continuo y feroz sobre Goku, dejándolo totalmente a su merced.
 - Goku sufre el Haikyuken de Tienshinhan. Tras el brutal ataque, se logra reponer. El joven afirma que sólo había estado utilizando una fracción de su fuerza para proteger a su oponente, pero ahora va a luchar a plena potencia. Se desencadena una brutal paliza hacia Tienshinhan. Tienshinhan medita brevemente y sigue peleando, empleando un Taiyoken para tratar de cegar a su oponente, pero gracias a las gafas del Maestro Roshi, el joven consigue noquear a Tienshinhan. El combate prosigue muy igualado, hasta que Goku comienza a notar una extraña Parálisis de su cuerpo que le deja indefenso ante cualquier ataque del hombre de tres ojos.
