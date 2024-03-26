@@ -135,3 +135,17 @@ Año 750-753 de la Línea 1.
 - Goku llega a la aldea para evitar las trampas que se suceden en el Bosque. En el castillo del rey tienen dudas de que Goku tenga éxito, pero le recluta para hacer frente a Shura después de ver sus habilidades de combate. En ese momento, Los demonios comienzan a aparecer en el pueblo. El rey escolta a Goku hacia la puerta del Mundo Demoníaco, abierta gracias a la espada de Shura. Goku cumple con los guardias Melee y Gora. Finalmente Shula aparece y Goku logra golpearle, escapando con Misa . Melee y Gola lo ayudan a salir y Saca la Espada, sellando el Portal que unía los dos mundos.
 - Goku encuentra algunas personas huyendo de su pueblo. Dicen que un monstruo llamado InoShikaCho, un Cerdo cruce con Ciervo, está aterrorizando a su pueblo. Goku va a la aldea y se encuentra a dos hombres, uno con un tercer ojo sobre su frente y el otro con aspecto de pequeño mimo, que han derrotado a Inoshikacho. Los habitantes del pueblo les recompensan por sus servicios. Más tarde, Goku encuentra a esos dos hombres en el bosque con InoShikaCho alrededor de una fogata. Goku se da cuenta de que sólo pretenden fingir matar al monstruo para obtener dinero. Una chica despierta a Goku, diciendo lo encontró inconsciente en el bosque. Goku va tras su búsqueda y se encuentra a los dos desconocidos haciendo el mismo truco. Goku dice que son amigos de InoShikaCho, pero engañan a los aldeanos para hacerlos creer que Goku es el único que trama algo. Goku recoge InoShikaCho y sale corriendo, pero los aldeanos lo siguen. Finalmente, InoShikaCho es aceptado por los habitantes para tareas del campo y se aclara que Goku solo trataba de ayudar.
 - Han pasado tres años, y es el día antes del Torneo Mundial de Artes Marciales. Goku salva a Konkichi, un pequeño zorro verde, que es perseguido por tres individuos. Konkichi lleva a Goku al aeropuerto para volar a Isla de la Papaya, sede del torneo. Goku no tiene dinero, por lo que va a un carnaval de la ciudad para ganar uno a tiempo. Goku consigue obtenerlo en una máquina que mide la fuerza. Uranai Baba, la adivina, aparece ante ellos afirmando estar de Vacaciones. De pronto, Konkichi sale corriendo, pero es atrapado por los matones que le perseguían. Ellos le obligan a robar un banco. Konkichi admite a Goku que era un criminal, pero desea cambiar. Uranai Baba dice a Goku donde están los tres hombres, les captura y los lleva a la cárcel. Desafortunadamente, pierde su vuelo, por lo que decide ir a nado hasta la Isla de la Papaya.
+
+
+---
+> [!caption|left] Floats to the left
+> ![toribot.png|170](/img/user/IMAGENES/PERSONAJES/ESPECIALES/toribot.png)
+
+
+Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
+
+Gracias por todo Maestro. 
+
+安らかに眠る 1955-2024
+
+
