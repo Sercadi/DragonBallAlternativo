@@ -5,6 +5,22 @@
 
 ![baba-adivinasaga.jpg|200](/img/user/IMAGENES/baba-adivinasaga.jpg)
 
+>[!SUMMARY] Tabla de Contenido
+
+>    - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Opening\|Opening]]
+>    - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Ending\|Ending]]
+>    - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Cuando suceden los Eventos   \|Cuando suceden los Eventos   ]]
+>    - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Combates\|Combates]]
+>    - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Personajes\|Personajes]]
+>        - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Principales\|Principales]]
+>        - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Secundarios \|Secundarios ]]
+>        - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Villanos\|Villanos]]
+>    - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Historia\|Historia]]
+>        - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Arco de los 5 Guerreros de Baba \|Arco de los 5 Guerreros de Baba ]]
+>        - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Arco de la 7ºBola Dragón \|Arco de la 7ºBola Dragón ]]
+>        - [[SAGAS/Dragon Ball/4 - Saga de Baba la Adivina#Arco del Entrenamiento en la Carretera \|Arco del Entrenamiento en la Carretera ]]
+
+
 ## Opening
 
 Doragon Bōru Densetsu
