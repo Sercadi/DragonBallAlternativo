@@ -186,4 +186,17 @@ Año 750-753 de la Línea 1.
 - El grupo va a celebrar la actuación estelar del torneo de la Casa Tortuga en un restaurante, pero, inusualmente, Goku tiene poco apetito. Krillin se ha ido hacía demasiado rato por lo que Goku tiene un mal presentimiento y sale corriendo del restaurante, dejando atrás a sus sorprendidos compañeros de equipo y amigos. Cuando llega al lugar del torneo, Krillin ya estaba muerto, su monstruoso asesino ya se había ido, y la criatura ha robado tanto la bola de dragón como la lista de competidores del Anunciador del Torneo.
 
 
+---
+> [!caption|left] Floats to the left
+> ![toribot.png|170](/img/user/IMAGENES/PERSONAJES/ESPECIALES/toribot.png)
+
+
+Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
+
+Gracias por todo Maestro. 
+
+安らかに眠る 1955-2024
+
+
+
 
