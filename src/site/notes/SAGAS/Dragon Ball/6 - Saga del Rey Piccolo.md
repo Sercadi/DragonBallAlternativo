@@ -6,19 +6,36 @@
 
 ![PiccoloDaimaoSaga.png|300](/img/user/IMAGENES/PiccoloDaimaoSaga.png)
 
-## Opening
+
+
+>[!SUMMARY] Tabla de Contenido
+
+>- [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Opening\|Opening]]
+>- [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Ending\|Ending]]
+>- [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Cuando suceden los Eventos   \|Cuando suceden los Eventos   ]]
+>- [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Combates\|Combates]]
+>- [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Personajes\|Personajes]]
+>    - [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Villanos \|Villanos ]]
+>- [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Historia\|Historia]]
+>    - [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Arco de Tambourine\|Arco de Tambourine]]
+>    - [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Arco de la Juventud del Rey Piccolo\|Arco de la Juventud del Rey Piccolo]]
+>    - [[SAGAS/Dragon Ball/6 - Saga del Rey Piccolo#Arco de la Conquista del Mundo\|Arco de la Conquista del Mundo]]
+
+
+
+# Opening
 
 Power of Dreamer
 
-## Ending
+# Ending
 
 Aoki Tabibito-tachi
 
-## Cuando suceden los Eventos   
+# Cuando suceden los Eventos   
 
 Año 750-753 de la Línea 1.
 
-## Combates
+# Combates
 
 
 | Participante 1           | Participante 2                | Ganador                  |
@@ -52,7 +69,7 @@ Año 750-753 de la Línea 1.
 | Goku                     | Drum                          | Goku                     |
 | Goku                     | Gran Rey Demonio Piccolo (2º) | Goku                     |
 
-## Personajes
+# Personajes
 
 - Saiyajin
 	- Puros
@@ -89,7 +106,7 @@ Año 750-753 de la Línea 1.
 - Androides 
 	- Androide 8
 
-### Villanos 
+## Villanos 
 
 - Earthlings
 	- Pilaf
@@ -106,9 +123,9 @@ Año 750-753 de la Línea 1.
 - Namekianos 
 	- Piccolo Jr (Huevo)
 
-## Historia
+# Historia
 
-### Arco de Tambourine
+## Arco de Tambourine
 
 - Goku y sus amigos descubren a Krilin asesinado. El Anunciador dice que fue obra de un monstruo que, además, robó la esfera del dragón de Goku y una lista de participantes de los 22 torneos realizados a lo largo de la historia. A juzgar por un símbolo encontrado por Oolong, impreso en un papel, Roshi sabe que se trata de Piccolo Daimaō. Goku poseído por la rabia y la ira, pide a Bulma el radar del dragón y parte en busca del asesino de Krilin pero Roshi le detiene  y Goku junto al resto aunque algo molesto escucha la historia de Roshi: Les cuenta a los allí presentes, cómo la tierra sufrió hace mucho tiempo el ataque de este ser y cómo en su juventud, junto con el maestro Tsuru y el mentor de ambos, Mutaito, lo atraparon en un recipiente con una técnica llamada Mafuba. Pilaf es quien ha liberado al Gran Rey Demonio Piccolo y ahora es su aliado condenando a la Tierra a una nueva época de Caos. Goku procede a irse con el Radar a buscar al asesino de Krillin y vengarle y después mataría a ese tal Piccolo, ninguno le da tiempo a hablarle y sale corriendo.
 - Goku localiza al asesino de Krilin, Tambourine. Intenta golpearle, pero al estar débil por el hambre y cansado por el enfrentamiento contra Ten Shin Han en el Torneo de las Artes Marciales, es vencido rápidamente y Tambourine le da por muerto. Roshi y los demás vuelven a casa ante el retraso de Goku, para guarecerse. Tambourine le entrega a Piccolo Daimaō la esfera del dragón y la lista de los luchadores. Éste es enviado a matar a todos los luchadores del Torneo de Artes Marciales uno por uno. Sus primeras víctimas son el Rey Chapa y Pamputt, que caen derrotados fácilmente y mueren.
@@ -118,11 +135,14 @@ Año 750-753 de la Línea 1.
 - Después en una pequeña aldea llega Giran y ataca a un hombre y a su hijo pero Tambourine llega y mata a Giran, el padre del niño le agradece por salvarlo pero Tambourine lo ataca diciendo que no lo toque y después se va. Mientras tanto Ten, Yamcha, Roshi y Chaoz siguen buscando las Esferas del Dragón, Ten y Yamcha le dice que quiere pelear contra Piccolo pero Roshi se los niega, y Yamcha se marcha a entrenar por su cuenta, Roshi dice que Piccolo es muy poderoso y localizan una nueva esfera. Tambourine llega la Ciudad Oeste, donde Ranfan iba con su marido y un grupo de fans la acosaban, allí Tambourine mata a Ranfan y a su marido ya que intenta matarlo por asesinar a su esposa, posteriormente Tambourine va en busca de Yamcha para matarlo. 
 - Yajirobe esta teniendo una discusión con Goku pero este le dice que sus ojos se parecen a los de Krillin y Yajirobe le dice que entonces debió ser una persona casi perfecta si se parecía a el pero Goku le dice que no, porque Krillin no tenia cabello ni nariz, entonces Yajirobe se imagina una versión de el mismo pero sin cabello ni nariz y se enoja con Goku. Cuando este ultimo se va regresa para contarle a Yajirobe lo que se hace con las Esferas del Dragón. Yamcha estaba entrenando y aparece Tambourine pidiendo una dirección pero justo antes de irse reconoce la cara de Yamcha y lo ataca, Lunch le dispara a Tambourine pero las balas no le hacen daño, justo antes de matar a Yamcha, Piccolo le ordena telepáticamente a Tambourine encontrar al asesino de Cymbal y vengar su muerte, y se va diciéndole a Yamcha que podrá vivir otro día. Yamcha se une a la expedición de la búsqueda de las esferas con Tien Shin Han, Roshi y los demás.
 - Ten Shin Han se las arregla para conseguir una de las Esferas del Dragón en un iceberg. Goku reitera a Yajirobe que tiene la intención de utilizar las Esferas del Dragón para resucitar a Krillin y derrotar al que lo mató, esto ocurre mientras que Tambourine se dirige hacia Goku y Yajirobe.
-- Un barco pirata va pasando por el bosque, en este barco están Roshi, Ten y Chaoz intentando negociar con el capitán para que les de su esfera del dragón, al ver que estos tres no tienen nada valioso para intercambiar la esfera, los piratas les disparan, pero Chaoz con su telequinesis hace que las balas no lleguen a sus cuerpos, mientras que Ten y Roshi derrotan a los piratas y le quitan el arma al capitán sin que este se de cuenta, por lo que al verse indefenso no le queda de otra que entregarles la esfera.
+- El barco pirata va pasando por el bosque, en este barco están Roshi, Ten y Chaoz intentando negociar con el capitán para que les de su esfera del dragón, al ver que estos tres no tienen nada valioso para intercambiar la esfera, los piratas les disparan, pero Chaoz con su telequinesis hace que las balas no lleguen a sus cuerpos, mientras que Ten y Roshi derrotan a los piratas y le quitan el arma al capitán sin que este se de cuenta, por lo que al verse indefenso no le queda de otra que entregarles la esfera.
 - Mientras tanto, Yajirobe intenta huir de Goku, pero este lo persigue ya que tiene la esfera del dragón de una estrella. El radar del dragón de Piccolo halla la esfera que tiene Yajirobe, así que este manda a Tambourine a buscarla.
 - Roshi y los demás van a un pequeño pueblo en el que se encuentra la siguiente esfera, Ten toca a la puerta da una casa para buscar la esfera. Una mujer abre y le pregunta a Ten qué quiere, en eso Ten se da cuenta que hay un hombre al fondo, este resulta ser un antiguo oponente al que Ten atacó violentamente en un torneo, rompiéndole la pierna. Ten se disculpa por lo que le hizo y le pide la esfera, pero el hombre le miente diciéndole que no la tiene. La esposa del hombre llama a la policía y llegan unos soldados a la casa. Todos creen que Ten es el asesino de los luchadores de artes marciales (siendo Tambourine, en realidad). Ellos intentan arrestarlo pero el se rehúsa, justo cuando uno de los guardias esta a punto de dispararle, llega Roshi y les dice que el es un hombre bueno, como todos lo reconocen como el "Dios de las Artes Marciales", le creen. Ten le pide la esfera al hombre pero este sigue sin confiar en el, Ten se arrodilla y le suplica que por favor le de la esfera. El hombre sorprendido ante esto, le permite tomar la esfera.
 - Yajirobe por fin logra librarse de Goku y se pone a descansar, pero llega Tambourine a buscar la esfera, en eso llega Goku para pelear contra el y vengar la muerte de Krilin.
 - La lucha entre Goku y Tambourine comienza. Goku despista a Tambourine con su gran velocidad hasta que logra darle un golpe en la cara y lo embiste con una gran cantidad de golpes, hasta que lo noquea con un rodillazo en la nuca. Yajirobe piensa que esta muerto y planea comerselo pero Tambourine se despierte y ataca a Goku con su Chou Makouhou. Al ver que el chico ya no está, piensa que esta muerto, pero resulta que con su gran velocidad logró esquivar el ataque, Tambourine perplejo ante la situación intenta huir volando, pero Goku alarga su Báculo Mágico que lo lleva a la altura de Tambourine y lo desintegra con un Kamehameha. El Rey Demonio Piccolo inmediatamente siente la muerte de su hijo, y furioso le pide a Pilaf que lo lleve al lugar de su muerte.
+
+## Arco de la Juventud del Rey Piccolo
+
 - Ten Shin Han, Roshi, Yamcha y Chaoz encuentran la Esfera del Dragón de 6 estrellas dentro de una cueva, pero salen huyendo rápidamente ya que unos cuervos los atacan. Al final el aeroplano de Pilaf llega al lugar donde se encuentra Goku.
 - Roshi, Ten Shin Han y Chaoz están a punto de conseguir otra Esfera del Dragón. Yajirobe le da su Esfera del Dragón a Son Goku y se esconde. El Gran Rey Demonio Piccolo se lanza al vacío para hacerle frente a Goku y se dispone a acabar con él, Goku al principio parece que lleva la ventaja mientras Yajirobe observa la pelea detrás de un árbol.
 - Piccolo parece haber sido derrotado por el joven, pero se levanta y se quita su capa, después de comprobar los poderes de Goku, este comienza a atacarlo. Durante la pelea, Goku lo muerde, haciendo enfurecer a Piccolo, quien lo sigue atacando sin piedad y le lanza varios ataques.
@@ -134,6 +154,9 @@ Año 750-753 de la Línea 1.
 - Roshi, sabiendo muy bien que él no es rival para Piccolo, lo desafía. Este se saca las dos esferas que había tragado y reta a Roshi a quitárselas. Al ver que Roshi no hace nada, se las vuelve a tragar y se prepara para la pelea. Le lanza un ataque a Roshi y este sigue sin inmutarse ya que no tiene ningún deseo de luchar contra Piccolo, Roshi le revela que fue alumno de Mutaito y se comienza a asustar ya que fue él quien lo encerró en el contenedor con el Mafuba. Roshi comienza a ejecutar el Mafuba mientras Piccolo trata de huir, pero este es atrapado por la energía de la técnica de Muten Roshi, los 3 lo observan todo.
 - Las cosas parecen ir bien con el Mafuba, pero por desgracia Piccolo se salva en el último segundo y Roshi se desploma en el suelo, a su vez, Goku tiene un mal presentimiento porque sintió algo (posiblemente la desaparición del ki de Roshi). Piccolo reúne por fin las siete Esferas del Dragón e invoca a Shen Long para pedir su deseo.
 - Tras invocar a Shen Long, Piccolo lo contempla preparándose para pedir su deseo mientras  los 3 lo observan con impotencia. Este le pide a Chaoz que pida un deseo antes de que Piccolo lo haga, Chaoz tiene que pedir la destrucción de Piccolo. Chaoz lo intenta, pero Piccolo lo mata. Este convierte su sueño en realidad y nuevamente recupera su juventud. Antes de que Shen Long pueda dispersarse, Piccolo lo asesina para que nadie más puede usar las Esferas del Dragón en su contra. Piccolo le ordena a Pilaf y sus secuaces que se dirijan al Castillo Real, Ten y Yamcha, ante los cuerpos de Chaoz y Roshi, tienen la intención de utilizar el Mafuba contra Piccolo diciendo que Ten lo hará por ser más fuerte. Mientras tanto, Pilaf le recuerda a Piccolo lo de su recompensa, pero el demonio lo echa de su propia nave junto con sus compinches. Yajirobe y Goku finalmente llegan a la base de la Torre de Karin y son recibidos por Bora y Upa.
+
+## Arco de la Conquista del Mundo
+
 - Mientras se celebra el vigésimo aniversario desde que el Rey de las Naciones ascendió al trono real, el Gran Rey Demonio Piccolo y Piano preparan su ataque. Goku tiene la intención de subir la Torre de Karin, pero Yajirobe no quiere ir con él, no obstante, este decide acompañarlo y termina aceptando por la comida, entonces Bora los lanza hacia arriba para que lleguen a la cima de la torre. Mientras tanto, Piccolo y Piano llegan al Castillo Real, asesinando a los guardias de la entrada. Mientras unas niñas (entre ellas Sno) les dan ramos de flores al rey, el Gran Rey Demonio Piccolo inicia su ataque y entra a la ofensiva, el rey trata de escapar, pero Piccolo lo alcanza. Yajirobe finalmente logra llegar a la cima de la torre.
 - El Gran Rey Demonio Piccolo asesina al Capitán de la Guardia, el primer oficial del Rey de las Naciones, y le ordena al soberano a decir por televisión que va a conquistar el mundo. El rey se niega y Piccolo destruye una gran parte de la ciudad, mientras tanto Bulma coloca a Chaoz y Kame-Sen'nin en las cápsulas de congelación y extrañan a Roshi. Al llegar a la torre, Karin le da una Senzu a Son Goku para que se recupere y le dice a este que Roshi fue asesinado por Piccolo (Goku empieza a recordar viejos momentos vividos con él). Lamentablemente, Karin no tiene nada que enseñarle a Goku y cuando este último está por salir a luchar contra Piccolo, Karin le habla sobre una tal "agua de los dioses".
 - El maestro Karin le dice a Son Goku que el "agua de los dioses" se encuentra escondida dentro de un laberinto de hielo en el que muchas personas han perecido tratando de pasar. Yajirobei no quiere ir, pero accidentalmente entra en el mismo portal al que accede después Goku (Karin le ha advertido acerca de la "Oscuridad"). Goku pelea con un monstruo de hielo indestructible y debido al "ruido" que causaron, la Oscuridad finalmente es despertada de su letargo. Yajirobe y Goku escapan deslizándose por un camino largo y sinuoso. No obstante, la Oscuridad tiene algo pensado en mente para Son Goku. Al terminar el episodio, se puede ver la imagen de Roshi.
