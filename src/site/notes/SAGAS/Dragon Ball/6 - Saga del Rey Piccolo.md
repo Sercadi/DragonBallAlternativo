@@ -71,6 +71,8 @@ Año 750-753 de la Línea 1.
 
 # Personajes
 
+## Principales
+
 - Saiyajin
 	- Puros
 		- Goku
