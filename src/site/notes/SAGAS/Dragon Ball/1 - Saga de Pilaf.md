@@ -8,7 +8,6 @@
 ![sagapilaf.jpg|400](/img/user/IMAGENES/sagapilaf.jpg)
 
 
-
 >[!SUMMARY] Tabla de Contenido
 
 >    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Opening\|Opening]]
@@ -18,6 +17,9 @@
 >    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Personajes\|Personajes]]
 >        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Principales\|Principales]]
 >        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Villanos\|Villanos]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lugares \|Lugares ]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lista de Técnicas\|Lista de Técnicas]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lista de Transformaciones\|Lista de Transformaciones]]
 >    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Historia\|Historia]]
 >        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Comienzo de la Aventura\|Arco del Comienzo de la Aventura]]
 >        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de Oolong\|Arco de Oolong]]
@@ -96,6 +98,27 @@ Año 749 de la Línea 1.
 	- Jefe Oso
 
 
+## Lugares 
+
+- Universo 7
+	- La Luna
+	- Tierra 
+		- Monte Paozu
+			- Casa del Abuelo Gohan
+		- Valle Esqueleto
+		- Monte Frypan
+		- Desierto del Diablo
+			- Escondite de Yamcha
+			- Bosque Champiñón
+				- Ciudad Champiñón 
+				- Castillo de Pilaf
+		- Kame House
+		- Aldea Pinguino (Mención)
+		- Aldea Aru
+			- Mansión de Oolong
+		- Jardín de Infancia de Transformaciones del Sur
+
+
 ## Historia
 
 ### Arco del Comienzo de la Aventura
@@ -172,7 +195,7 @@ Año 749 de la Línea 1.
 
 ---
 > [!caption|left] Floats to the left
-> ![toribot.png|170](/img/user/PERSONAJES/EXTRAS/toribot.png)
+> ![toribot.png|170](/img/user/IMAGENES/PERSONAJES/ESPECIALES/toribot.png)
 
 
 Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
