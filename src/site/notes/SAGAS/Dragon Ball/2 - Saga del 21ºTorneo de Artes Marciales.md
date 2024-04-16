@@ -8,7 +8,6 @@
 ![Tournamentsagaconceptart.jpg|200](/img/user/IMAGENES/Tournamentsagaconceptart.jpg)
 
 
-
 >[!SUMMARY] Tabla de Contenido
 
 >    - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Opening\|Opening]]
@@ -18,6 +17,9 @@
 >    - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Personajes\|Personajes]]
 >        - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Principales\|Principales]]
 >        - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Villanos\|Villanos]]
+>    - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Lugares \|Lugares ]]
+>    - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Lista de Técnicas\|Lista de Técnicas]]
+>    - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Lista de Transformaciones\|Lista de Transformaciones]]
 >    - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Historia\|Historia]]
 >        - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Arco del Entrenamiento de la Escuela Tortuga\|Arco del Entrenamiento de la Escuela Tortuga]]
 >        - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Arco del 21ºTorneo de Artes Marciales\|Arco del 21ºTorneo de Artes Marciales]]
@@ -31,7 +33,6 @@
 >                - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Goku vs Nam \|Goku vs Nam ]]
 >            - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Final \|Final ]]
 >                - [[SAGAS/Dragon Ball/2 - Saga del 21ºTorneo de Artes Marciales#Goku vs Jackie Chun\|Goku vs Jackie Chun]]
-
 
 
 ## Opening
@@ -106,6 +107,23 @@ Año 749-750 de la Línea 1.
 	- Great Lee (Humano) (Participante del Torneo)
 - Giras 
 	- Giran (Participante del Torneo)
+
+
+## Lugares 
+
+
+- Universo 7
+	- Tierra 
+		- Casa Abuelo Gohan 
+		- Desierto 
+		- Isla Entrenamiento
+			- Kame House
+		- Brown Country
+		- Ciudad Oeste
+		- Templo Orín (Flashback)
+		- Isla Papaya
+			- Torneo Mundial de Artes Marciales
+		- Aldea de Nam (Flashback)
 
 
 ## Historia
@@ -206,7 +224,7 @@ Año 749-750 de la Línea 1.
 
 ---
 > [!caption|left] Floats to the left
-> ![toribot.png|170](/img/user/PERSONAJES/EXTRAS/toribot.png)
+> ![toribot.png|170](/img/user/IMAGENES/PERSONAJES/ESPECIALES/toribot.png)
 
 
 Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
