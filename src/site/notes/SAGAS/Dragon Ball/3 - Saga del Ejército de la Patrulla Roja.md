@@ -192,11 +192,29 @@ Año 750 de la Línea 1.
 - Androides
 	- Obotchaman
 
+## Lugares 
+
+
+- Universo 7
+	- Sistema Solar
+		- Tierra
+			- Cuartel General de la Patrulla Roja
+			- Monte Frypan
+			- Aldea de Nam
+			- Desierto del Diablo
+			- Kame House
+			- Villa Jingle
+				- Casa del Doctor Flappe
+			- Fortaleza Voladora de Pilaf 
+			- Tierra de Antigüedades del Pueblo
+			- Torre Músculo
 
 
 ## Historia
 
-### Arco de Goku vs Coronel Silver
+
+#### Arco de Goku vs Coronel Silver
+
 
 - Goku y sus amigos están reunidos después de haber finalizado el torneo. Krilin decide quedarse con el Maestro Roshi, lo cual desilusionó a el Maestro Roshi ya que el tenía pensado estar con Lunch. Mientras que Bulma, Yamcha, Oolong y Puar deciden volver a la ciudad. Goku decide buscar la esfera que perteneció a su abuelito. Debido a esto, Bulma le da a Goku el Radar del Dragón. Más tarde se ve a Krilin y el Maestro Roshi dando la vuelta por la ciudad. Mientras tanto, Bulma, Yamcha, Oolong y Puar se ven atravesando un desierto en su auto. Al mismo tiempo, Goku está sobrevolando los cielos en su Nube Voladora. Después se muestra una aldea, la cual pertenece a Nam, se ve a Nam regresando del torneo desilusionado, sin embargo logró llevar agua a su familia. El Padre de Nam luego de un rato le cuenta la historia del lago que podía moverse, al mismo tiempo creen que el agua no baja hasta la aldea porque posiblemente algo la esta deteniendo, entonces Nam decide averiguar lo que sucede y emprende su viaje hacia las partes altas del río.
 - Después se ve a Goku muy sediento, de pronto se detiene en un gran lago. Mientras tanto, Nam ha sido raptado por una enorme Pteranodon. Goku ve a Nam luchando, y entra en acción. Y mientras eso ocurre, se ve a Bulma, Yamcha, Oolong y Puar sentados en el desierto. Oolong y Puar se transforman en una sombrilla y un ventilador para ayudar. Después se muestra de nuevo a Goku ayudando a Nam. El Pteranodon trata de agarrar a Goku, pero fue en vano. Goku utiliza su báculo sagrado y lo alarga golpeando así al Pteranodon, provocando que ambos caigan. Goku atrapa a Nam, y Nam le da las gracias. Nam le dice a Goku sobre su problema, y él y Goku emprenden la busqueda. Pronto, ellos vienen a través de una sección del río que fluye a la aldea de Nam pero aquí está lleno de agua y rodeado de exuberante vegetación. El río pronto conduce a una presa que parece estar restringiendo su flujo.
@@ -294,9 +312,11 @@ Año 750 de la Línea 1.
 - Tras haber vencido al Ejército de la Patrulla Roja por completo, Goku reúne las seis Esferas del Dragón, pero para su sorpresa la séptima no aparece en el radar. Yamcha y compañía llegan por fin a la base para ayudar a Goku. Mientras todos discuten cómo abordar el cuartel general, ven a Goku pasar subido en la Nube Kinton y lo llaman. El joven les explica que ha acabado él mismo con el ejército, por lo que su ayuda ya no era necesaria. Luego le pide a Bulma que revise el radar del dragón, pero ella necesita de herramientas, así que todos se dirigen a la Kame House.
 
 
+
+
 ---
 > [!caption|left] Floats to the left
-> ![toribot.png|170](/img/user/PERSONAJES/EXTRAS/toribot.png)
+> ![toribot.png|170](/img/user/IMAGENES/PERSONAJES/ESPECIALES/toribot.png)
 
 
 Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
