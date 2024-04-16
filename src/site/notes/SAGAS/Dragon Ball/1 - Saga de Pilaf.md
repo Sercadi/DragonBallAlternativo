@@ -10,39 +10,39 @@
 
 >[!SUMMARY] Tabla de Contenido
 
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Opening\|Opening]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Ending\|Ending]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Cuando suceden los Eventos   \|Cuando suceden los Eventos   ]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Combates\|Combates]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Personajes\|Personajes]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Principales\|Principales]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Villanos\|Villanos]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lugares \|Lugares ]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lista de Técnicas\|Lista de Técnicas]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lista de Transformaciones\|Lista de Transformaciones]]
->    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Historia\|Historia]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Comienzo de la Aventura\|Arco del Comienzo de la Aventura]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de Oolong\|Arco de Oolong]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Desierto\|Arco del Desierto]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de la Montaña de Fuego\|Arco de la Montaña de Fuego]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Bandido Conejo\|Arco del Bandido Conejo]]
->        - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de Pilaf\|Arco de Pilaf]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Opening\|Opening]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Ending\|Ending]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Cuando suceden los Eventos   \|Cuando suceden los Eventos   ]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Combates\|Combates]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Personajes\|Personajes]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Principales\|Principales]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Villanos\|Villanos]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Lugares \|Lugares ]]
+>- [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Historia\|Historia]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Comienzo de la Aventura\|Arco del Comienzo de la Aventura]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de Oolong\|Arco de Oolong]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Desierto\|Arco del Desierto]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de la Montaña de Fuego\|Arco de la Montaña de Fuego]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco del Bandido Conejo\|Arco del Bandido Conejo]]
+>    - [[SAGAS/Dragon Ball/1 - Saga de Pilaf#Arco de Pilaf\|Arco de Pilaf]]
 
 
 
-## Opening
+
+
+# Opening
 
  Makafushigi Adventure!
 
-## Ending
+# Ending
 
 "Romantic Ageru Yo"
 
-## Cuando suceden los Eventos   
+# Cuando suceden los Eventos   
 
 Año 749 de la Línea 1.
 
-## Combates
+# Combates
 
 
 | Participante 1 | Participante 2         | Ganador                                          |
@@ -67,9 +67,9 @@ Año 749 de la Línea 1.
 | Goku y Yamcha  | Perros de Shu          | Goku y Yamcha                                    |
 | Yamcha y Puar  | Goku (Ozaru)           | Yamcha y Puar                                    |
 
-## Personajes
+# Personajes
 
-### Principales
+## Principales
 
 - Saiyajins 
 	- Puros
@@ -88,7 +88,7 @@ Año 749 de la Línea 1.
 	- Baja Jerarquía
 		- Shenron (Dragón)
 
-### Villanos
+## Villanos
 
 - Earthlings 
 	- Mai
@@ -98,7 +98,7 @@ Año 749 de la Línea 1.
 	- Jefe Oso
 
 
-## Lugares 
+# Lugares 
 
 - Universo 7
 	- La Luna
@@ -119,9 +119,9 @@ Año 749 de la Línea 1.
 		- Jardín de Infancia de Transformaciones del Sur
 
 
-## Historia
+# Historia
 
-### Arco del Comienzo de la Aventura
+## Arco del Comienzo de la Aventura
 
 - La historia comienza en la Montaña Baozi, con un niño que tiene una cola de mono llamado Son Goku. Fue encontrado por un maestro de artes marciales llamado Son Gohan. Fue adoptado por él como su nieto y entrenado para llegar a ser un gran luchador. Tras la muerte de su abuelo adoptivo, Goku vive solo en la montaña y guarda como único recuerdo de su abuelo la esfera del dragón de cuatro estrellas que le dio antes de morir.
 - Un día, después de terminar de cortar madera, Goku entró en su casa y vió brillar su esfera del dragón, y pensó que era su abuelo intentando hablarle. Luego salió en busca de comida, pero se encontró con un tigre dientes de sable que lo persigue hasta caer en un rio. Una vez que Goku salió del río, se quitó la ropa dejando que secase y se puso a pescar, por lo que metió su cola en el agua para usarla como cebo. Posteriormente un pez gigantesco vio su cola y pensó que era un mono, así que fue rápidamente hacía él, pero Goku lo noqueó de una patada.
@@ -139,7 +139,7 @@ Año 749 de la Línea 1.
 - Mientras tanto, Pilaf y sus secuaces llegan a la Kame House, para que le de la Esfera del Dragón. Allí revisan la casa, y luego encuentran al Cocodrilo con Gafas, un amigo de Roshi, y lo interrogan para saber donde está. Justo en ese momento, llega Roshi y Pilaf le pide la esfera pero él les dice que se la regaló a Bulma. Estos tratan de escapar en su submarino y le piden a Roshi que les de un empujón, pero el viejo les rompe el submarino sin que estos se den cuenta. Goku y Bulma regresan a su casa.
 - De vuelta a la casa en la que acamparon, Bulma sube a su habitación para cambiarse pero ella encuentra sus bragas y se da cuenta que en realidad nunca las llevo puestas, después se avergüenza sabiendo lo que le había mostrado a Roshi. Goku le dice que el se las había sacado, y Bulma enfadada le dispara con una ametralladora. El capítulo termina cuando Goku y Bulma llegan a una villa desierta.
 
-### Arco de Oolong
+## Arco de Oolong
 
 - Todo comienza cuando Goku y Bulma se dirigen a la Aldea Aru donde creen que se encontraran la quinta Esfera del Dragón, pero cuando Bulma pierde el control de su moto se cae la esfera de 3 estrellas y se dan cuenta de que está brillando. Cuando llegan a la aldea no encuentran a nadie, pero Goku toca la puerta de Sherman Priest, un viejo aldeano. Como nadie la abre Goku rompe la puerta, al entrar, Sherman lo golpea con una hacha en la cabeza porque piensa que es alguien llamado Oolong. Goku se enoja porque le dolió, pero descubre que fue un accidente, entonces perdona al aldeano. 
 - Luego sale Apron con un trapo para Goku, y allí le cuentan que Oolong quiere robarse a Apron porque siempre se roba a las niñas bonitas de la aldea. Después el aldeano les pregunta por qué vinieron y Bulma le muestra la esfera del Dragón y pregunta si allí tenían alguna, pero ellos dicen que jamas habían visto alguna. Entonces una anciana se acerca a ellos y les muestra la esfera del Dragon de seis estrellas, pero dice que no se la va a dar porque fue un recuerdo de sus antepasados. Bulma le ofrece un trato, si derrotan a Oolong, ella les da la Esfera del Dragón. Los aldeanos no creen que Goku pueda vencerlo, pero aún así aceptan el trato.
@@ -149,7 +149,7 @@ Año 749 de la Línea 1.
 - La anciana cumple su promesa y les regala la esfera de 6 estrellas. Para asegurarse de que no vuelva a cometer actos malignos, Bulma y Goku deciden llevarse a Oolong como rehén para que les ayude con sus habilidades. 
 - Bulma y Goku siguen en busca de las Esferas del Dragón restantes con la ayuda de Oolong contra su voluntad, todos cruzan el rió en un bote. Oolong pregunta a Bulma a donde se dirigen, ella le responde que al Desierto del Diablo. Oolong al escuchar esto que no quiere acompañarlos porque en el desierto donde van vive el bandido del desierto que mata y roba a todo aquel que cruce el desierto, Oolong al no poder convencer a Bulma de no ir al desierto, se transforma en un pez y salta al agua con el objetivo de escapar pero Goku baja a buscarlo. Al no poder encontrarlo, Bulma saca una caña de pescar y usa una de sus bragas como cebo para capturar a Oolong, lo que termina teniendo éxito. Mas tarde después de haber capturado a Oolong, Bulma le da un caramelo a Oolong supuestamente para ser mas fuerte.
 
-### Arco del Desierto
+## Arco del Desierto
 
 - Después el bote en el que viajaban se queda sin combustible dejándolos a la mitad del río, Bulma ordena a Oolong para que se transforme en un remo para poder llegar a la orilla. Cuando llegan a la orilla Goku sale a explorar la isla, unos segundos después Bulma grita y comienza a llorar porque perdió su equipo de viaje ahora se han quedado sin ningún medio de transporte teniendo que ir a pie por el desierto, Oolong aprovecha el momento y trata de escapar, así que Bulma manda a Goku a buscarlo, lamentablemente no pueden encontrarlo así que Bulma comienza a decir la palabra "caca" haciendo que Oolong salga de su escondite, Bulma explica que el caramelo que le dio a comer es una píldora que produce diarrea al escuchar esa palabra.
 - Mas tarde ellos caminan por el Desierto del Diablo pero el intenso calor hace que Bulma se desmaye, obligando a los demás a descansar. Cerca del lugar se ve un escondite donde viven Yamcha el bandido del desierto, y Puar su fiel ayudante, Puar observa por medio de un telescopio a Oolong y Goku (no podía ver a Bulma porque la tapaba una montaña). Este le avisa a su amigo Yamcha que "llegaron visitas", y este parte para ir a buscarlos . Yamcha les exige que les entregue todas las cápsulas y el dinero que llevaban, pero Goku no se los quiere dar. Puar reconoce a Oolong quien iba con el a al Jardín de Infantes de Transformaciones del Sur y era conocido como un mediocre, pues a Oolong lo habían expulsado de la escuela por acosar a sus compañeras. 
@@ -160,7 +160,7 @@ Año 749 de la Línea 1.
 - Durante la noche, Oolong se queda vigilando con un rifle por si volvían Yamcha y Puar por lo que no duerme nada. Luego al amanecer se despiertan Goku y Bulma, y esta le pide a Oolong su ropa, pero este le explica la historia diciéndole que no tuvo tiempo de lavar. Aún así, le da un traje para vestirse a Bulma ya que no tenía más ropa. Mientras continúan viajando en el remolque, estos son devuelta atacados por Yamcha que les destruye el vehículo con una bazooka exigiéndoles que les entreguen las esferas del Dragón. La explosión desmaya a Bulma, por lo que Yamcha no tenía ningún temor.
 - Goku recuperado por haber comido, lucha de nuevo contra Yamcha, pero esta vez le gana sin mucha dificultad arrancándole un diente. Aquí Yamcha cambia de estrategia al descubrir que Goku era tan poderoso, esto lo hace irse, pero más tarde Yamcha regresa y les regala una cápsula vehículo. La verdadera intención de Yamcha era esperar a que consigan las 7 esferas del Dragón y luego robárselas para pedir su deseo. Al final del capítulo Mai y Shu entran en lo que quedo del remolque creyendo que era su bomba la que había explotado (cuando en realidad fue Yamcha quien destruyo el remolque), cuando entran la bomba de ellos explota dejándolos aturdidos.
 
-### Arco de la Montaña de Fuego
+## Arco de la Montaña de Fuego
 
 - Goku, Bulma y Oolong, continúan su búsqueda de las Esferas del Dragón sin saber que son perseguidos por Yamcha y Puar, Bulma y Goku se dirigen hacia el Monte Fry-pan donde creen que se encuentra la sexta Esfera del Dragón, Oolong les cuenta la leyenda del terrible rey Ox-Satan, pero Bulma piensa que esa leyenda es ridícula. De vuelta en el Desierto del Diablo, Mai y Shu vuelven con temor al Castillo de Pilaf sabiendo que aun no consiguen ninguna esfera del Dragón. Entonces como castigo, Pilaf les dio una descarga eléctrica.
 - Mientras tanto Bulma y los demás llegan al Monte Fry-pan por otra parte Yamcha y Puar se esconden para ver como Goku es aplastado por Ox-Satan, pero mientras tanto, una niña grita y huye de un dinosaurio. Luego, la niña mata al dinosaurio con un rayo que sale de su casco. En ese momento, Yamcha encuentra a la niña, pero ella piensa que Yamcha quería hacerle daño y le dispara con uno de sus rayos, por lo que Yamcha esquiva el disparo y contraataca con con un golpe en la cabeza, desmayando a la niña.
@@ -170,14 +170,14 @@ Año 749 de la Línea 1.
 - Cuando llegan al Monte Fry-pan, Roshi le recuerda a Goku lo prometido, entonces Goku le dice a Bulma la condicion de Roshi, al principio Bulma se niega a hacer eso pero al verse en la necesidad de adquirir la esfera del dragón, se ve en la obligación de aceptar. Una vez allí, Roshi comenzó a reforzar su musculatura crecientemente ante los atónitos ojos de los presentes (Goku, Bulma, Oolong, Chi-Chi, Satán, y también Yamcha y Puar, que los espiaban para robarles las esferas del Dragón a Goku y sus amigos cuando no se lo esperaran), tras una serie de gestos con sus manos, emergió desde sus manos una enorme bola de energía que logró dominar el fuego de la montaña, logrando así apagar el fuego, pero también destruyó la montaña y el castillo. Por suerte, la esfera del dragon de la montaña no sufre daños y Bulma la encuentra con ayuda del radar.
 - Mientras tanto, Goku intenta copiar la técnica de Roshi, a pesar de que Roshi le dijo que para aprender el Kamehameha deberá entrenar 50 años, sin embargo Goku lo logra al primer intento (si bien, aún su Kamehameha no era tan grande como el de Roshi), destrozando el coche que les había regalado Yamcha. Satán les presta un nuevo aerodeslizador. Cuando estaban por despedirse, Roshi se acuerda de la promesa de Bulma, Bulma para cumplir tal promesa, le pidió a Oolong que se transformara en ella y le diera el beso al anciano. Él lo aceptó a regañadientes, pero para vengarse, hizo mas de la cuenta. Tras esto, los personajes siguieron su camino.
 
-### Arco del Bandido Conejo
+## Arco del Bandido Conejo
 
 - Goku, Bulma y Oolong, seguidos por Yamcha y Puar llegan a un pueblo para comprar capsulas y llenar de combustible el auto. Bulma va a comprarse ropa mientras Goku y Oolong llenan el tanque del combustible, pero las personas al ver a Bulma se atemorizan de ella incluso cuando Goku y Oolong iban a pagar el combustible, el señor decidió regalarles el combustible. Mientras tanto Bulma seguía buscando una tienda, mientras todos huían y le tenían miedo, pero una confiada Bulma pensaba que era porque nunca habían visto una chica bonita. Cuando llegó a la Tienda, el vendedor le regaló las capsulas y luego fue a cambiarse de ropa. Cuando se cambió, el vendedor de la tienda de ropa le pregunta si pertenece a la Mafia Conejo, pero Bulma le dice que no. Entonces, el vendedor enojado la echa de la tienda.
 - Luego cuando Bulma caminaba la gente ya no le tenía más miedo. Después, cuando estaban por irse, llegan dos hombres vestidos de conejos, y la gente sale aterrada. Uno de ellos, nota la presencia de Bulma, y decide ir con su compañero a "saludarla". Bulma entendió el porque las personas le temian cuando usaba el disfraz de conejo, las orejas de conejo que venían con el traje les recordaba a estos hombres. Bulma le dijo a Goku que eran tipos malos, y Goku peleó con ellos derrotándolos fácilmente. Esto provocó que llamaran al jefe de su banda para que se ocuparan del niño.
 - Un auto con forma de conejo llegó rápidamente al pueblo. El jefe de la banda era un conejo parlante que vestia un uniforme verde con un símbolo, detrás de la cual lucía una camisa violeta. El conejo, avergonzado porque sus secuaces fueron vencidos por un niño, le pidió a Bulma que le diera la mano. En ese momento, Yamcha se dio cuenta de quien era ese conejo ya que este no era un ser normal, pues convertía a la gente en zanahorias con sólo tocarlas. Yamcha trato de advertirles pero fue demasiado tarde.
 - Accidentalmente Bulma le da la mano y se convierte en una zanahoria. Goku enfurecido luchó contra el Jefe Conejo utilizando su báculo sagrado para evitar ser convertido en zanahoria al tocarlo. El Jefe Conejo le dijo a Goku que no se moviera o si no se comería a Bulma. El ordenó a sus secuaces que atacaran a Goku. En medio de la pelea, en la que Goku estaba siendo derrotado, Yamcha no tuvo más remedio que luchar con los secuaces, venciéndolos fácilmente. A continuación, Goku, ya liberado de los secuaces del conejo, Yamcha le pidió a Puar que se transformara en pájaro y le quitara la zanahoria al Jefe Conejo, cuando se la quito Puar salió volando pero choco con un poste y cayo al suelo, seguido el Jefe Conejo trataba de recuperar su zanahoria pero Puar se volvió a transformar esta vez en el Jefe Conejo, entonces Goku aprovecho el momento y golpeó al jefe conejo con su báculo sagrado e hizo que devolviera a Bulma a la normalidad. Para que no causaran más problemas, Goku ató a la mafia conejo en su báculo sagrado, y alargó su báculo hasta llegar a la Luna. Luego regresó con sus amigos a la tierra. Al final continua con su búsqueda de las esferas del dragón.
 
-### Arco de Pilaf
+## Arco de Pilaf
 
 - Bulma, Goku y Oolong continúan su búsqueda de las esferas del dragón ya solo les falta una estrella para poder invocar a Shen Long. En el transcurso Oolong le pregunta a Bulma sobre el deseo que pedirá, ella le dice que quiere un novio bonito, esto irrita mucho a Oolong ya que están arriesgando sus vidas por un tonto deseo. Yamcha, por su parte, mantiene su objetivo de robarles las esferas cuando ya las hayan reunido todas. En otro lugar, en el castillo de Pilaf, Mai esta tratando de reparar el Radar del Dragón de lo contrario Pilaf se los entregara a los cocodrilos como cena, después de un rato Mai finalmente arregla el radar y comienza a detectar una esfera del dragón, pero se trataba de la esfera que ellos tenían. Poco después llega un cuervo mecánico informando que las esferas del dragón que faltan están muy cerca del castillo.
 - En esos momentos, aparece sobre el coche en el que Goku y los demás viajaban, un robot que lanza lo que parecía un misil, destruyendo el coche y haciendo caer de él a Goku y a sus amigos, que no sabían lo que había pasado. El robot, era piloteado por Shu, quien abrió el maletero del coche y allí encontró una maleta con las esferas del dragón que buscaban. El robot cogió la maleta y se fue volando del lugar. Goku llama a su Nube Voladora y busca al robot por el camino por el que él se había marchado. Shu, sin embargo, ya había escapado. Goku aterriza cerca de ese lugar y pretende atacar al robot, sin nadie dentro, desconociendo que alguien lo pilotara. El robot, como es normal, no contesta ni ataca. Tras golpearlo con su báculo sagrado, lo destruye y regresa al lugar en el que Bulma y Oolong lo esperaban para contarles que el robot fue derrotado pero que no tenía ninguna esfera. Sin embargo, él tenía aún la esfera del dragón de cuatro estrellas.
