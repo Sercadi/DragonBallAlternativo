@@ -169,3 +169,14 @@ Año 750-753 de la Línea 1.
 - Goku comienza su lucha fuera del castillo. Durante todo este tiempo, Ten y Yamcha se ven sorprendidos por el nuevo poder de Goku. Piccolo recibe muchos golpes, así que desata todo su poder, causando la muerte de Piano en el proceso. Goku recibe un golpe poderoso, el cual parece haberlo vencido. No obstante, unos segundos después, para el terror de Piccolo, Goku salta y le lanza un Kamehameha.
 - Son Goku sigue haciendo estragos contra Piccolo. La noticia de la lucha que tiene Goku llega a todos los rincones del mundo. Piccolo daña la pierna derecha de Goku, usando el Soumasen. Con un ataque de energía destruyó todo el reino, pero por suerte, el rey original se salvó de la muerte. Ten y Yamcha fueron capaces de salvar a Goku de una muerte segura, al flotar por los cielos, pero esto hace que se agote su energía. Goku impide que Piccolo realice otra onda explosiva, pero este logra golpear a Goku y creando un enorme cráter con él. Goku sale del cráter con su nube voladora.
 - Piccolo amenaza a Goku con matar a sus amigos si se mueven. Aprovechándose de Goku, le lanza 2 piedras, lastimándolo en la pierna y en el brazo izquierdo. Bulma y  Lunch llegan al lugar, Yajirobe también ha llegado para ver a Goku luchar. Al descubrir que Piccolo mató a Shen Long, Goku se resigna a soportar los dolores de sus heridas. Con Goku incapacitado, Piccolo se dispone a acabar con él, pero Goku utiliza todo su poder en el puño derecho para perforar a Rey Piccolo con un agujero en el torso. Segundos antes de su muerte, utiliza lo último de su energía para crear su descendencia final: Piccolo Jr. Yajirobe salva a Goku de estrellarse contra el suelo. Seguidamente le ofrece una Semilla del Ermitaño pero este la rechaza y dice que les de dos a Tenshinhan y a Yamcha. Ten y Yamcha están motivados para entrenar mejor que nunca y le dice a Goku que cuando se recupere, vayan para la Kame House.
+
+---
+> [!caption|left] Floats to the left
+> ![toribot.png|170](/img/user/IMAGENES/PERSONAJES/ESPECIALES/toribot.png)
+
+
+Gracias Akira Toriyama por toda la obra creada y por tu participación en los dibujos y diseño de todo el material del universo Dragon Ball hasta GT y las películas así como Dragon Quest y Doctor Slump entre otros, sin ti este fanfiction no sería posible.
+
+Gracias por todo Maestro. 
+
+安らかに眠る 1955-2024
