@@ -7,28 +7,6 @@
 ![sagasaiyanposter.jpg|200](/img/user/IMAGENES/sagasaiyanposter.jpg)
 
 
->[!SUMMARY] Tabla de Contenido
-
->- [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Opening\|Opening]]
->- [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Ending\|Ending]]
->- [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Cuando suceden los Eventos\|Cuando suceden los Eventos]]
->- [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Personajes\|Personajes]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Principales\|Principales]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Secundarios\|Secundarios]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Villanos\|Villanos]]
->- [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Historia\|Historia]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Arco de Inicio de la Historia\|Arco de Inicio de la Historia]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Combate: Guerreros Z vs Raditz\|Combate: Guerreros Z vs Raditz]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Arco del Camino de la Serpiente\|Arco del Camino de la Serpiente]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Arco del Entrenamiento con Kaio del Norte\|Arco del Entrenamiento con Kaio del Norte]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Combate: Guerreros Z vs Saibaman\|Combate: Guerreros Z vs Saibaman]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Combate: Guerreros Z vs Nappa\|Combate: Guerreros Z vs Nappa]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Combate: Goku y Raditz vs Vegeta y Nappa\|Combate: Goku y Raditz vs Vegeta y Nappa]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Combate: Goku y Raditz Oozaru vs Nappa y Vegeta Oozarus\|Combate: Goku y Raditz Oozaru vs Nappa y Vegeta Oozarus]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Combate: Guerreros Z vs Vegeta\|Combate: Guerreros Z vs Vegeta]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Final de Saga\|Final de Saga]]
->    - [[SAGAS/Dragon Ball Kai/1 - Saga Saiyan#Trailer de la Siguiente Saga\|Trailer de la Siguiente Saga]]
-
 
 
 # Opening
